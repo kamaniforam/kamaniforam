@@ -23,7 +23,7 @@ I'm currently pursuing Masters in Information Systems from Northeastern Universi
 
 - 🛠 &nbsp; I’m currently working on backend projects with Java, Spring Boot, PLSQL, and AWS.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/foramkamani).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kamaniforam).
 - 📫 &nbsp; How to reach me: foramkamanii@gmail.com
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/deveshcode/deveshcode/blob/master/resume.pdf). -->
 
