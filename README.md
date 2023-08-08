@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently pursuing Masters in Information Systems from Northeastern University. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/foramkamani/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamaniforam/)
 
 ### Talking about Personal Stuffs:
 
