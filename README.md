@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently pursuing Masters in Information Systems from Northeastern University. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
+I'm currently pursuing a Masters in Information Systems from Northeastern University. I'm a passionate learner who's always willing to learn and work across various technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamaniforam/)
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working on backend projects with Java, Spring Boot, PLSQL, and AWS.
+- 🛠 &nbsp; I’m currently working on backend projects with Java, Spring Boot, PLSQL, SQL, Python, React, and AWS.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kamaniforam).
 - 📫 &nbsp; How to reach me: foramkamanii@gmail.com
